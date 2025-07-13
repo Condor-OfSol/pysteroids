@@ -1,0 +1,4 @@
+/.vscode
+/.venv
+*.lock
+.python-version
