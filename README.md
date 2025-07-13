@@ -1,1 +1,1 @@
-# pystroids
+# pysteroids
